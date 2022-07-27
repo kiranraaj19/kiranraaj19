@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiranraaj</h1>
 <h3 align="center">An enthusiastic full stack developer with a Python forte</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiranraaj19" alt="kiranraaj19" /></a> </p>
-
 - 🌱 I’m currently learning **Nuxt3, Rust**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1efXlfKAZG2_UflArocH1RlNZYtLWFfr2/view?usp=sharing](https://drive.google.com/file/d/1efXlfKAZG2_UflArocH1RlNZYtLWFfr2/view?usp=sharing)
