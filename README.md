@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Nuxt3, Rust**
 
-- 📄 Know about my experiences:<br> [https://drive.google.com/file/d/1efXlfKAZG2_UflArocH1RlNZYtLWFfr2/view?usp=sharing](https://drive.google.com/file/d/1efXlfKAZG2_UflArocH1RlNZYtLWFfr2/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/kiranraajx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiranraajx" height="30" width="40" /></a>
