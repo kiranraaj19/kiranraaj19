@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kiranraaj</h1>
+<h1 align="center">Hi, I'm Kiranraaj👋</h1>
 <h3 align="center">An enthusiastic full stack developer with a forte in Python and many new Technologies</h3>
 
 - 🌱 I’m currently learning **Nuxt3, Rust**
