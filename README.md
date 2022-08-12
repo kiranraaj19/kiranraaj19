@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Kiranraaj👋</h1>
 <h3 align="center">An enthusiastic Web and Software developer with a forte in Python and many new Technologies</h3>
 
-- 🌱 I’m currently learning **Nuxt3, Rust**
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/kiranraaj-sekar-a950081b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiranraaj-sekar-a950081b9" height="30" width="40" /></a>
